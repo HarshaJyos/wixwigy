@@ -1,0 +1,3 @@
+/*! For license information please see excalidraw-with-preact.production.min.js.LICENSE.txt */
+
+/*! For license information please see excalidraw.production.min.js.LICENSE.txt */
